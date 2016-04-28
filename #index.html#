@@ -1,0 +1,81 @@
+
+<!DOCTYPE html>
+<html>
+	<head>
+xczzxcq		<title>CV | Robin Green</title>
+		<link rel="stylesheet" type="text/css" href="/css/main.css">
+	</head>
+	<body>
+		<nav>
+    		<ul>
+        		<li><a href="/">Home</a></li>
+	        	<li><a href="/about">About</a></li>
+        		<li><a href="/cv/">CV</a></li>
+        		<li><a href="https://www.linkedin.com/in/robin-green-166b8216?trk=hp-identity-photo">Linkedin</a></li>
+        		<li><a href="https://scholar.google.com/citations?hl=en&user=AlJH6PoAAAAJ&view_op=list_works&gmla=AJsN-F7JV6S_gSJ_94XZh-Q-fUwKfW3u_mBFHEbgyFtGGViXYAoET_2vVEH74hElcir8X6DZAzjAHWTxsF4eUtnNuGme2K0UIdqMoikbthqErp8PwbsEGaiY00OYrWO31xOZARZI3eyv">Google Scholar</a></li>
+        		<li><a href="http://www.ncbi.nlm.nih.gov/myncbi/browse/collection/44054066/?sort=date&direction=ascending">NCBI Bibliography</a></li>
+    		</ul>
+		</nav>
+		<div class="container">
+    		<div class="blurb">
+        		<h1>Curriculum vitae</h1>
+				
+			<p><b>Present title and affiliations:</b><br />
+				Doctoral Candidate<br />
+				Division of Basic Sciences<br />
+				Fred Hutchinson Cancer Research Center<br />
+				<br />
+				
+				Molecular and Cellular Biology Program <br />
+				University of Washington <br />
+				<br />
+				Advisor: <a href="http://research.fhcrc.org/shou/en.html">Wenying Shou</a></br>
+				<br />
+				<p><b>Address:</b><br />
+				Fred Hutchinson Cancer Research Center<br />
+				1100 Fairview Ave N.<br />
+				A2-168<br />
+				Seattle,WA 98109<br /></p>
+			
+				<p><b>Contact:</b><br />
+				<a href="mailto:rjgreen@fhcrc.org">rjgreen@fhcrc.org</a><br />
+				Lab: (206) 667-4435 <br / >
+<p><b>EDUCATION</b><br />
+<strong>University of Washington</strong> PhD in Molecular and Cellular Biology, Expected Graduation: May 2017 <br />
+<strong>Michigan State University</strong> BS <i>with Honor</i> in Biochemistry and Molecular Biology, Minor in Computer Science, <i>Honors College Member</i> 2008-2012  <br / >
+</p>
+
+<p><b>Research Experiance</b><br />
+<strong>Fred Hutchinson Cancer Research Center: </strong> <i>Graduate Research Assistant, Laboratory of Wenying Shou</i>, May 2013-Present<br />
+<strong>Michigan State University: </strong><i>Undergraduate Research Assistant,Laboratory of <a href="https://bmb.natsci.msu.edu/faculty/eric-l-hegg-professor/">Eric Hegg</a> </i>, August 2008-August 2012 <br />
+<strong>Merck: </strong><i>Molecular Biology Intern</i> May 2011-August 2011 <br/>
+</p>
+
+<p><b>Publications (Peer Reviewed)</b></p>
+
+	<p>Cornish AJ , <b> Green R </b>, GÅ‰rtner K, Mason S, Hegg EL <a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0125324">Characterization of Hydrogen Metabolism in the Multicellular Green Alga</a> <i>Volvox carteri</i> ". <i>PLoS One</i>. 2015 Apr 30;10(4):e0125324. doi: 10.1371/journal.pone.0125324. eCollection 2015 PMID: 25927230</p>
+
+
+<p><b>Publications (Book Chapters)</b></p>
+<p><b>Green R </b>, Shou W <a href='http://www.ncbi.nlm.nih.gov/pubmed/24838889'>"Modeling community populatoin dynamics with the open-source language R" </a>. <i> Methods Mol Biol</i>. 2014;1151:209-31. doi: 10.1007/978-1-4939-0554-6_15. PMID: 24838889 [<a href='/publications/2014_MethodMolBio_RChapter.pdf'> PDF</a>]</p>
+
+<p><b>Research Funding and Fellowships</b> <br />
+<a href="http://www.nsfgrfp.org/">National Science Foundation (NSF) Graduate Research Fellowship</a>, 2013-Present <br />
+</p>
+
+<p><b>Professional Presentations</b> <br />
+
+
+<p><b> Selected Honors </b></p>
+<p>2015    Society for the Study of Evolution Travel Grant<br />
+<p>2014    NSF BEACON Travel Award<br />
+<p>2014    ASM Graduate Student Travel award (to attend <a href='http://conferences.asm.org/index.php/2012-02-09-21-04-52/past-conferences/9-past-conferences/157-conference-scope-2'> 1st ASM Confernece on Experimental Microbial Evolution</a>)<br /></p>
+
+    		</div><!-- /.blurb -->
+		</div><!-- /.container -->
+		<footer>
+    		<ul>
+		</ul>
+		</footer>
+	</body>
+</html>

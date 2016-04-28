@@ -1,0 +1,51 @@
+name: Robin Green
+description:  Science on adaptive radiation in homogenous environments
+url: http://robingreen525.github.io
+
+markdown: redcarpet
+permalink: /:categories/:title/
+future: true
+
+redcarpet: 
+  extensions:
+   - tables
+   - no_intra_emphasis
+   - autolink
+   - superscript
+   - strikethrough
+
+exclude:
+  - "*.branches"
+  - "*.kml"
+  - "*.log"
+  - "*.nb"
+  - "*.trees"
+  - "*.cpp"
+  - "*.h"
+  - "*.hh"
+  - "*.java"
+  - "*.jar"
+  - "*.csv"
+  - "*.tsv"
+  - "*.txt"
+  - "*.rb"
+  - "*.py"
+  - "*.class"
+  - "*.tips"
+  - "*.fasta"
+  - "*.nex"
+  - "Gemfile"
+  - "Gemfile.lock"
+  - "projects/nextflu/auspice/index.html"
+  - "projects/nextflu/auspice/css/*"
+  - "projects/nextflu/auspice/h3n2/*"
+  - "projects/nextflu/auspice/h1n1pdm/*"
+  - "projects/nextflu/auspice/vic/*"
+  - "projects/nextflu/auspice/yam/*"
+  - "projects/nextflu/auspice/zika/*"  
+  - "projects/nextflu/auspice/muttree/*"
+  - "projects/nextflu/auspice/reports/*"
+  - "projects/nextflu/auspice/js/*"    
+
+projects:
+  
